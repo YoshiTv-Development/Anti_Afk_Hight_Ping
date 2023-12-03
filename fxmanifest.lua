@@ -4,7 +4,7 @@ lua54 'yes'
 Name 'Anti_Afk_Hight_Ping'
 Author 'YoshiTv'
 version '1.0.0'
-Discord 'https://discord.gg/pGP37hb5rF'
+Discord 'https://discord.gg/v73eQpGp5b'
 
 shared_script {
     '@es_extended/imports.lua',
